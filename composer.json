@@ -1,8 +1,14 @@
 {
-    "name" : "zzh",
+    "name" : "zPhp\lib",
+    "authors": [
+        {
+            "name": "Zouzehe",
+            "email": "zouzehe@125.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
-            "Zzh\\": "src/"
+            "Lib\\": "src/"
         }
     } 
 }
