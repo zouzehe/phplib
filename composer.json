@@ -1,0 +1,8 @@
+{
+    "name" : "zzh",
+    "autoload": {
+        "psr-4": {
+            "Zzh\\": "src/"
+        }
+    } 
+}
